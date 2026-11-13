@@ -383,4 +383,4 @@ The system shows how database technologies can support business analysis and imp
 **Project Title:** Retail Sales Management System  
 **Course:** Database Management Systems  
 **Instructor:** Eric Maniraguha  
-**Institution:** Kigali Independent University (ULK)
+**Institution:** Kigali Independent University _ULK
