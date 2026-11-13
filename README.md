@@ -376,7 +376,7 @@ Through the implementation of JOIN operations and Window Functions, the project 
 
 The system shows how database technologies can support business analysis and improve management decision-making.
 
-## 19. References
+## 19.References
 
 1. [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 2. [MySQL JOIN Clause](https://dev.mysql.com/doc/refman/8.0/en/join.html)
