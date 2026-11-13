@@ -363,8 +363,12 @@ Retail-Sales-Management-System/
     ├── window_functions/
     └── business_analysis/
 ```
+## 17. Limitations and Future Improvements
 
-## 17. Conclusion
+The current project focuses on core retail sales operations using a relational database and SQL queries. Future improvements could include real-time sales tracking, inventory management, automated report generation, and interactive dashboards to provide deeper business insights.
+
+
+## 18. Conclusion
 
 The Retail Sales Management System demonstrates how SQL and relational database concepts can be used to organise and analyse retail business information.
 
@@ -372,7 +376,7 @@ Through the implementation of JOIN operations and Window Functions, the project 
 
 The system shows how database technologies can support business analysis and improve management decision-making.
 
-## 18. References
+## 19. References
 
 1. [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 2. [MySQL JOIN Clause](https://dev.mysql.com/doc/refman/8.0/en/join.html)
